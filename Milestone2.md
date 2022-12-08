@@ -15,4 +15,5 @@
 - [x] Quil: Create front card components (blank)
 - [x] Sandy: Style card components (transition, shadow, colors)
 - [x] Sandy: Create flip animations (check if cards match, if so stay flipped, otherwise flip back)
+- [x] Quil: Check if all cards have matched and if so show pop-up message 
 - [x] Sandy & Quil: Create restart button and function (randomly position the cards at start and when button is pressed)
